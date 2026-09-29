@@ -1,5 +1,5 @@
 blank_issues_enabled: false # Mencegah orang membuat issue kosong tanpa template
 contact_links:
   - name: Pertanyaan atau Diskusi
-    url: https://spbe.denpasarkota.go.id/forum
-    about: Gunakan Forum untuk bertanya, bukan Issue.
+    url: https://github.com/orgs/kominfo-denpasar/discussions
+    about: Gunakan GitHub Discussions untuk bertanya terkait teknis kode atau fitur, bukan Issue.

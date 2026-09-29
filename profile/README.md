@@ -6,18 +6,18 @@ Kami bertanggung jawab dalam merancang, mengembangkan, dan memelihara infrastruk
 
 ---
 
-## 🔗 Tautan Internal & Sumber Daya Utama
+## Tautan Internal & Sumber Daya Utama
 
 Bagi para *developer*, analis, dan tim internal yang tergabung dalam pengembangan sistem, silakan gunakan tautan berikut untuk berkolaborasi:
 
-*   💻 **[Git Repository Internal](https://dev.denpasarkota.go.id/git)** — Pusat kontrol versi (*version control*) dan kolaborasi kode untuk aplikasi dan layanan internal.
-*   🌐 **[Portal Developer](https://dev.denpasarkota.go.id/portal)** — Pintu masuk (*gateway*) utama untuk mengakses layanan API, konfigurasi *environment*, dan manajemen *deployment*.
-*   📚 **[Dokumentasi Teknis](https://docs.denpasarkota.go.id)** — Panduan lengkap (*user manual*, arsitektur sistem, panduan integrasi API, dan standar *coding*).
-*   💬 **[Forum Diskusi Tim](https://dev.denpasarkota.go.id/forum)** — Wadah komunikasi internal untuk tanya jawab teknis, diskusi perbaikan *bug*, dan *brainstorming* fitur baru.
+*   **[Git Repository Internal](https://dev.denpasarkota.go.id/git)** — Pusat kontrol versi (*version control*) dan kolaborasi kode untuk aplikasi dan layanan internal.
+*   **[Portal Developer](https://dev.denpasarkota.go.id/portal)** — Pintu masuk (*gateway*) utama untuk mengakses layanan API, konfigurasi *environment*, dan manajemen *deployment*.
+*   **[Dokumentasi Teknis](https://docs.denpasarkota.go.id)** — Panduan lengkap (*user manual*, arsitektur sistem, panduan integrasi API, dan standar *coding*).
+*   **[Forum Diskusi Tim](https://dev.denpasarkota.go.id/forum)** — Wadah komunikasi internal untuk tanya jawab teknis, diskusi perbaikan *bug*, dan *brainstorming* fitur baru.
 
 ---
 
-## 🛠️ Standar Kerja & Pelaporan
+## Standar Kerja & Pelaporan
 
 Untuk menjaga kualitas pengembangan (*development*) perangkat lunak, kami menerapkan standar ketat terkait dokumentasi dan pelaporan masalah.
 
